@@ -94,12 +94,12 @@ After imputing missing values:
 
 The project provides insights into the factors that influence YouTube video views through various statistical analyses and visualizations. 
 
-> Having a video in standard quality will increase views. 
-> Videos with low view have captions for videos will decrease views.
-> Educational videos attract the most views in our model
-> Shorter videos tend to attract more views
-> Percentage increases in likes will increase views
-> Less comments correlated with videos having more views
+> - Having a video in standard quality will increase views. 
+> - Videos with low view have captions for videos will decrease views.
+> - Educational videos attract the most views in our model
+> - Shorter videos tend to attract more views
+> - Percentage increases in likes will increase views
+> - Less comments correlated with videos having more views
 
 
 ## Future Work
