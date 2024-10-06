@@ -1,6 +1,7 @@
 # Exploring Factors Influencing Youtube Views
 
-This project aims to analyze various factors that influence the number of views on YouTube videos using data analysis and statistical techniques.
+This project aims to analyze various factors that influence the number of views on YouTube videos using data analysis and statistical techniques, as a final project ECON 275: Business Analytics @Beloit College 2021
+- Prof Disha Shende
 
 ## Tools Used
 
@@ -14,17 +15,29 @@ This project aims to analyze various factors that influence the number of views 
 
 This data science project explores the relationships between different variables and YouTube video views. The analysis includes handling missing values, correlation analysis, and various visualizations to understand the factors affecting video popularity.
 
+# The dataset
+
+In this project, I used [Kaggle Data Science Youtube Video Meta Data](https://www.kaggle.com/themlphdstudent/data-science-youtube-video-meta-data) collected by The ML PhD Student
+> ## Overview of the dataset
+> - 44,261 Youtube videos, 60 channels
+> - Time series data from 2006-2020
+> - 21 variables in total
+> - Data available for Channels, View, Comments, Duration in seconds, Likes & Dislikes, Video Quality, and Caption, etc.
+> - Four unique categories of interest
+
+
 ## Key Visualizations
 
 1. Correlation matrix
-2. Linear model plots of likes to views for selected video categories
-3. Linear model plots of comments to views for selected video categories
-4. Relational plots of views, comments, and video quality for selected categories
-5. Relational plots of views, likes, and video caption for selected categories
-6. Count of video categories in the dataset
-7. View distribution across all video categories
-8. Distribution of views, comments, likes, and duration variables
-9. Distribution of log-transformed views, comments, likes, and duration variables
+![Correlation Matrix](path/to/correlation_matrix.png)
+3. Linear model plots of likes to views for selected video categories
+4. Linear model plots of comments to views for selected video categories
+5. Relational plots of views, comments, and video quality for selected categories
+6. Relational plots of views, likes, and video caption for selected categories
+7. Count of video categories in the dataset
+8. View distribution across all video categories
+9. Distribution of views, comments, likes, and duration variables
+10. Distribution of log-transformed views, comments, likes, and duration variables
 
 ## Data Preprocessing
 
