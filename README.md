@@ -29,7 +29,8 @@ In this project, I used [Kaggle Data Science Youtube Video Meta Data](https://ww
 ## Key Visualizations
 
 1. Correlation matrix
-![Correlation Matrix](https://github.com/vymai7500/Youtube-Videos-View/blob/master/correlation%20matrix.png))
+
+![Correlation Matrix](https://github.com/vymai7500/Youtube-Videos-View/blob/master/correlation%20matrix.png)
 3. Linear model plots of likes to views for selected video categories
 4. Linear model plots of comments to views for selected video categories
 5. Relational plots of views, comments, and video quality for selected categories
